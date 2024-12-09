@@ -1,7 +1,0 @@
->>@main=("""
-Dev. inclination to open up jupyter notebooks (or for vec. ntbk('s)) write code to play with outputs.
-Instead (!): Solution:
-Opt for Notepad++, open up decompose, (...) the function you were going to write as code.
-Reflect on the behavior you want represented in code, then write only functionalized docstring for that functionality you want in your functionalized function as your easy-to-understand code documentation.
-""") 
->> #####END-OF-MAIN-note
